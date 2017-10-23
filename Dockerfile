@@ -14,4 +14,4 @@ COPY . /usr/src/app
 
 EXPOSE 8080
 
-CMD ["more","leaderboard.html"]
+CMD ["http-server", "-s"]
