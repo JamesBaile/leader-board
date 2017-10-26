@@ -1,22 +1,22 @@
 [
     {
-        "name": "James Baile",
-        "score": 17
+        "name": "AAA",
+        "score": 6
     },
     {
-        "name": "Gary Stevens",
+        "name": "AAA",
+        "score": 7
+    },
+    {
+        "name": "AAA",
+        "score": 8
+    },
+    {
+        "name": "AAA",
+        "score": 9
+    },
+    {
+        "name": "AAA",
         "score": 10
-    },
-    {
-        "name": "Brendon Dugan",
-        "score": 10
-    },
-    {
-        "name": "Cherelle Gloster",
-        "score": 18
-    },
-    {
-        "name": "The Winner",
-        "score": 21
     }
 ]
