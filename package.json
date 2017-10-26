@@ -1,11 +1,10 @@
 {
-    "name": "enquiry-submitter-app",
-    "version": "0.0.1",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "start": "httpserver"
-    },
-    "dependencies": {
-    }
-  }
+  "name": "enquiry-submitter-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "httpserver"
+  },
+  "dependencies": {}
+}
