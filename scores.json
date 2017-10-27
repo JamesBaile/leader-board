@@ -1,26 +1,30 @@
 [
-    {
-        "name": "Ivan Podogov",
-        "score": 160
-    },
-    {
-        "name": "Lorenzo Marchiori",
-        "score": 20
-    },
-    {
-        "name": "Nicola Verbeeck",
-        "score": 10
-    },
-    {
-        "name": "Maarten Van Giel",
-        "score": 20
-    },
-    {
-        "name": "Tomasz Maslon",
-        "score": 70
-    },
-    {
-        "name": "Xavier F. GOUCHET",
-        "score": 5
-    }
+  {
+    "name": "Andrey Vakhrushev",
+    "score": 145
+  },
+  {
+    "name": "Rahul Sainani",
+    "score": 110
+  },
+  {
+    "name": "Thorsten Schillo",
+    "score": 110
+  },
+  {
+    "name": "AAA",
+    "score": 0
+  },
+  {
+    "name": "AAA",
+    "score": 0
+  },
+  {
+    "name": "AAA",
+    "score": 0
+  },
+  {
+    "name": "AAA",
+    "score": 0
+  }
 ]
